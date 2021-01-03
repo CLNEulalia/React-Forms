@@ -4,6 +4,8 @@
 
 Forms to allow users to interact with our web application. In HTML forms can have some unexpected behaviors for new developers.
 
+There is *A Lot* of ugly code in this, we don't expect you to have every single peice of it memorized and understood by the end of this lesson, end of the day, or even end of the week. But we do expect you to be able to go back and use this as a reference, to study from and to work with as you continue building up your react repertoire
+
 ## Learning Objectives
 
 - Describe how HTML forms work.
